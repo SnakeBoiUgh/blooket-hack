@@ -2,8 +2,8 @@ import requests
 from json import dumps
 from time import sleep
 
-LOGIN_NAME = "GaryHOST" # blook-name or email
-LOGIN_PASSWORD = "CornerScuffModifiedEducatorViabilityGrudge" # password
+LOGIN_NAME = "SnakeBoiUgh" # Wyat69420
+LOGIN_PASSWORD = "wyatt.kasey.2027@kenstonapps.org" # 1bluehamster
 
 UNIVERSAL_HEADERS = {'User-Agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A",
     'Accept-Encoding': "gzip, deflate",
